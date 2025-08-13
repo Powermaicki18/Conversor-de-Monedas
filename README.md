@@ -22,8 +22,8 @@ Al ejecutarse el programa, se le dará la bienvenida al usuario y posteriormente
 
 <img width="469" height="230" alt="Captura de pantalla 2025-08-13 122526" src="https://github.com/user-attachments/assets/a8443968-55fb-47c9-927d-93b131495f85" />
 
-
 En caso de que elija "Ver monedas disponibles", se le mostrará en un listado todas las opciones que puede seleccionar. 
+
 <img width="553" height="517" alt="Captura de pantalla 2025-08-13 123215" src="https://github.com/user-attachments/assets/e166b080-b718-440b-a58b-e52c1b341f41" />
 
 Adicionalmente, se mostrará otro listado en que se presentan algunas monedas populares, junto con sus valores de conversión teniendo en cuenta el dólar americano como moneda base.
